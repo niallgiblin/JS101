@@ -4,3 +4,4 @@ function reverseNumber(number) {
   return parseInt(reversedStringedNum, 10);
 }
 
+console.log(reverseNumber(12345));
